@@ -1,0 +1,6 @@
+Smartphone,25000
+Tablet,18000
+Charger,800
+Headphones,1500
+Camera,32000
+
